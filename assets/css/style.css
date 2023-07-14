@@ -1,0 +1,153 @@
+/*CONFIGURACION GLOBAL*/
+* {
+    opacity: 1;
+    padding: 0;
+    margin: 0;
+    background-repeat: no-repeat;
+    font-family: "cabin";
+}
+
+#logo {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 37px;
+    text-align: center;
+    padding: 3px !important;
+}
+
+#menutop {
+    background-color: #373A3C !important;
+}
+
+#navbarNav {
+    font-size: 16px;
+    text-align: left;
+    font-family: "cabin";
+}
+
+.nav-item {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+}
+
+.foto-principal {
+    display: inline-block;
+}
+
+#foto1 {
+    width: 482px;
+    height: 384px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: left;
+    font-weight: 700;
+}
+
+.parrafo {
+    font-size: 20px;
+    text-align: left;
+    font-weight: 700;
+    color: #373A3C !important;
+}
+
+/*recetas relacionadas */
+.recetas-titulo {
+    color: #373A3C;
+    font-size: 40px;
+    text-align: center;
+    font-family: "cabin";
+    font-weight: 700;
+}
+
+#panqueques {
+    color: #373A3C;
+    font-size: 23px;
+    text-align: left;
+    font-family: "cabin";
+    font-weight: 700;
+}
+
+#panqueques-receta {
+    color: #373A3C;
+    font-size: 16px;
+    text-align: left;
+    font-family: "cabin";
+    font-weight: 400;
+}
+
+#tiramisu {
+    color: #373A3C;
+    font-size: 23px;
+    text-align: left;
+    font-family: "cabin";
+    font-weight: 700;
+}
+
+#tiramisu-receta {
+    color: #373A3C;
+    font-size: 16px;
+    text-align: left;
+    font-family: "cabin";
+    font-weight: 400;
+}
+
+#plateada {
+    color: #373A3C;
+    font-size: 23px;
+    text-align: left;
+    font-family: "cabin";
+    font-weight: 700;
+}
+
+#plateada-receta {
+    color: #373A3C;
+    font-size: 16px;
+    text-align: left;
+    font-family: "cabin";
+    font-weight: 400;
+}
+
+.botones {
+    font-size: 16px;
+    color: #373A3C !important;
+}
+
+#sliderphotos {
+    width: 233x;
+    height: 170px;
+}
+
+.parrafo {
+    font-size: 16px;
+}
+
+#newsletter {
+    padding: 100px 20px 100px 20px;
+    background-color: red;
+    color: #FFFFFF !important;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#boton {
+    font-size: 16px;
+}
+
+footer {
+    font-family: 'Lobster', cursive !important;
+    background-color: #373A3C !important;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 37px;
+    text-align: center;
+    padding: 50px;
+}
